@@ -8,3 +8,4 @@ Add Line
 new branch line
 conflict branch
 git gui
+after reset
